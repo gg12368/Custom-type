@@ -1,4 +1,4 @@
-修改默认对齐数
+修改默认对齐数：
 
 #include<stdio.h>
 #include<windows.h>
